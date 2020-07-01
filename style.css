@@ -143,5 +143,10 @@ body {
    {
      transform: none;
    }
+   
+   .myModal{
+     width: 20;
+     height: 20;
+   }
 
   
